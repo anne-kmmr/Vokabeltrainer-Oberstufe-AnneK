@@ -9,9 +9,12 @@ Dieses Projekt wurde ursprünglich **nicht über GitHub entwickelt**. Die Entwic
 ## Funktionen
 
 - Verwaltung von Vokabeln
-- Abfrage- und Lernmodus
+- Abfrage- und Lernmodus mit filterung/Sortierung
 - Unterstützung beim selbstständigen Lernen
 - Benutzerfreundliche Oberfläche
+- Anmelde- und Login-Mechanismus
+- Newsletter-Versendung
+- Eintragung von Klausurterminen
 
 ## Bewertung
 
